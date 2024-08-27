@@ -1,5 +1,11 @@
 # Mizu
 
+*WARNING!*
+
+We are currently investigating potential compatibility and file-corruption issues with the Mizu add-on in FileMaker v20 and v21. Please use at your own risk.
+
+---
+
 ![Mizu screenshot](mizu.png "Text to show on mouseover")
 
 ## What is Mizu

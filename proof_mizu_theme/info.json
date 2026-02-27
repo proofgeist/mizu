@@ -1,11 +1,11 @@
 ﻿{
-	"GUID" : "79560687-4C7A-407B-9278-CE91FA749EDF",
+	"GUID" : "0BF9CD21-FA05-4864-9643-42D192CE71D9",
 	"Clients" :
 		[
 			"Pro","Go"
 		],
 	"Attribution" : "Proof+Geist",
-	"URL" : "https://proofgeist.com/",
+	"URL" : "https://github.com/proofgeist/mizu",
 	"Icon_Color" : "",
-	"Version" : "1"
+	"Version" : "1.3"
 }

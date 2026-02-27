@@ -1,9 +1,9 @@
 ﻿
 <DynamicTemplateString>
-	<StringID>com.fmi.basedirectory.F9EA987109F5940227F6AFEAFF0AB4B1</StringID>
-	<SourceText>Add-on Template/</SourceText>
-	<TargetText>Add-on Template/</TargetText>
-	<Comment>com.fmi.basedirectory.Add-on Template/</Comment>
+	<StringID>com.fmi.basedirectory.CB285A0FD66A28850057FEB1F4A82D17</StringID>
+	<SourceText>Mizu/</SourceText>
+	<TargetText>Mizu/</TargetText>
+	<Comment>com.fmi.basedirectory.Mizu/</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -84,73 +84,10 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.1B759226EB6991D1214E639EA673D087</StringID>
-	<SourceText>?</SourceText>
-	<TargetText>?</TargetText>
-	<Comment>com.fmi.calculation.text.?</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.270628AB0D80EE428B35DFE9E89AAFF7</StringID>
-	<SourceText>.</SourceText>
-	<TargetText>.</TargetText>
-	<Comment>com.fmi.calculation.text..</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.313CC6BFB7DFE3AE0D684D8FDB414AF7</StringID>
-	<SourceText>elementOf custom function<CR/></SourceText>
-	<TargetText>elementOf custom function<CR/></TargetText>
-	<Comment>com.fmi.calculation.text.elementOf custom function_CR/_</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.43EA6548552170C0AEA3E516E1129CA6</StringID>
-	<SourceText>\\\¶</SourceText>
-	<TargetText>\\\¶</TargetText>
-	<Comment>com.fmi.calculation.text.\\\¶</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.5EB445F26C7A13A09AD9CF5343EB63E8</StringID>
-	<SourceText>::</SourceText>
-	<TargetText>::</TargetText>
-	<Comment>com.fmi.calculation.text.::</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.63A29FA12B5716FE5A525AA877A00357</StringID>
-	<SourceText>\¶</SourceText>
-	<TargetText>\¶</TargetText>
-	<Comment>com.fmi.calculation.text.\¶</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.7D1170F121C1516C8A3CD44EDA38E8B3</StringID>
-	<SourceText>[]</SourceText>
-	<TargetText>[]</TargetText>
-	<Comment>com.fmi.calculation.text.[]</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.E06123D571693687770B1259FAD99B28</StringID>
 	<SourceText>Proof Add-on Module</SourceText>
 	<TargetText>Proof Add-on Module</TargetText>
 	<Comment>com.fmi.calculation.text.Proof Add-on Module</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.EECE2E542B0CDCE586A27B7931BA8BF0</StringID>
-	<SourceText>¶</SourceText>
-	<TargetText>¶</TargetText>
-	<Comment>com.fmi.calculation.text.¶</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.externaldatasource.9CA1FD5BDBC0DF6281CE84D715526BC8</StringID>
-	<SourceText>self-reference</SourceText>
-	<TargetText>self-reference</TargetText>
-	<Comment>com.fmi.externaldatasource.self-reference</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>

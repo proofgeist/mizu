@@ -1,6 +1,7 @@
+
 # Mizu
 
-![Mizu screenshot](mizu.png "Text to show on mouseover")
+![Mizu screenshot](mizu.png "Mizu. A FileMaker Theme by Proof")
 
 ## What is Mizu
 水 (Mizu) is a lightweight, Material and IBM Carbon-inspired **theme** and helper file primarily intended for FileMaker developers and affiliate devs at Proof+Geist (Proof). 

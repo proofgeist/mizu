@@ -1,17 +1,18 @@
 ﻿{
 	"Title" : "Mizu by Proof+Geist",
 
-	"Description" : "Adds the Mizu theme to your file",
+	"Description" : "미즈(Mizu). Proof가 제작한 FileMaker 테마입니다.",
 
 	"Category" : "Themes",
 
 	"Features" :
 		[
-			""
+			
 		],
 
 	"Optimized" :
 		[
-			
+			"Desktop", "Tablet", "Mobile"
+
 		]
 }

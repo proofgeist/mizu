@@ -1,17 +1,18 @@
 ﻿{
-	"Title" : "Mizu by Proof+Geist",
+	"Title" : "水 by Proof+Geist",
 
-	"Description" : "Adds the Mizu theme to your file",
+	"Description" : "水  ProofによるFileMakerテーマ",
 
 	"Category" : "Themes",
 
 	"Features" :
 		[
-			""
+			
 		],
 
 	"Optimized" :
 		[
-			
+			"Desktop", "Tablet", "Mobile"
+
 		]
 }

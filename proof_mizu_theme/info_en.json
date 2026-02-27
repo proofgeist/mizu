@@ -7,11 +7,12 @@
 
 	"Features" :
 		[
-			""
+			
 		],
 
 	"Optimized" :
 		[
-			
+			"Desktop", "Tablet", "Mobile"
+
 		]
 }

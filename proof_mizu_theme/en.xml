@@ -1,9 +1,9 @@
 ﻿
 <DynamicTemplateString>
-	<StringID>com.fmi.basedirectory.1CB182E2BB4EA1D10F52ABE35B688FA8</StringID>
-	<SourceText>People/</SourceText>
-	<TargetText>People/</TargetText>
-	<Comment>com.fmi.basedirectory.People/</Comment>
+	<StringID>com.fmi.basedirectory.F9EA987109F5940227F6AFEAFF0AB4B1</StringID>
+	<SourceText>Add-on Template/</SourceText>
+	<TargetText>Add-on Template/</TargetText>
+	<Comment>com.fmi.basedirectory.Add-on Template/</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -84,29 +84,78 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.tableoccurrence.4286129D428FCFA3D4FCBCA6874FC771</StringID>
-	<SourceText>&lt;Table Missing&gt;</SourceText>
-	<TargetText>&lt;Table Missing&gt;</TargetText>
-	<Comment>com.fmi.tableoccurrence.&lt;Table Missing&gt;</Comment>
+	<StringID>com.fmi.calculation.text.1B759226EB6991D1214E639EA673D087</StringID>
+	<SourceText>?</SourceText>
+	<TargetText>?</TargetText>
+	<Comment>com.fmi.calculation.text.?</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.valuelist.4279965857964A692F13CE942906DB9B</StringID>
-	<SourceText>Title</SourceText>
-	<TargetText>Title</TargetText>
-	<Comment>com.fmi.valuelist.Title</Comment>
+	<StringID>com.fmi.calculation.text.270628AB0D80EE428B35DFE9E89AAFF7</StringID>
+	<SourceText>.</SourceText>
+	<TargetText>.</TargetText>
+	<Comment>com.fmi.calculation.text..</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.valuelist.CDDB94E255089BBCC1684DDE3DD0E619</StringID>
-	<SourceText>Company</SourceText>
-	<TargetText>Company</TargetText>
-	<Comment>com.fmi.valuelist.Company</Comment>
+	<StringID>com.fmi.calculation.text.313CC6BFB7DFE3AE0D684D8FDB414AF7</StringID>
+	<SourceText>elementOf custom function<CR/></SourceText>
+	<TargetText>elementOf custom function<CR/></TargetText>
+	<Comment>com.fmi.calculation.text.elementOf custom function_CR/_</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.valuelist.text.5F4676E94181AA633DAE4D72C080B340</StringID>
-	<SourceText>Mr.<CR/>Mrs.<CR/>Ms.<CR/>-<CR/>Prof.<CR/>-</SourceText>
-	<TargetText>Mr.<CR/>Mrs.<CR/>Ms.<CR/>-<CR/>Prof.<CR/>-</TargetText>
-	<Comment>com.fmi.valuelist.text.Mr._CR/_Mrs._CR/_Ms._CR/_-_CR/_Prof._CR/_-</Comment>
+	<StringID>com.fmi.calculation.text.43EA6548552170C0AEA3E516E1129CA6</StringID>
+	<SourceText>\\\¶</SourceText>
+	<TargetText>\\\¶</TargetText>
+	<Comment>com.fmi.calculation.text.\\\¶</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5EB445F26C7A13A09AD9CF5343EB63E8</StringID>
+	<SourceText>::</SourceText>
+	<TargetText>::</TargetText>
+	<Comment>com.fmi.calculation.text.::</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.63A29FA12B5716FE5A525AA877A00357</StringID>
+	<SourceText>\¶</SourceText>
+	<TargetText>\¶</TargetText>
+	<Comment>com.fmi.calculation.text.\¶</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.7D1170F121C1516C8A3CD44EDA38E8B3</StringID>
+	<SourceText>[]</SourceText>
+	<TargetText>[]</TargetText>
+	<Comment>com.fmi.calculation.text.[]</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E06123D571693687770B1259FAD99B28</StringID>
+	<SourceText>Proof Add-on Module</SourceText>
+	<TargetText>Proof Add-on Module</TargetText>
+	<Comment>com.fmi.calculation.text.Proof Add-on Module</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EECE2E542B0CDCE586A27B7931BA8BF0</StringID>
+	<SourceText>¶</SourceText>
+	<TargetText>¶</TargetText>
+	<Comment>com.fmi.calculation.text.¶</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.externaldatasource.9CA1FD5BDBC0DF6281CE84D715526BC8</StringID>
+	<SourceText>self-reference</SourceText>
+	<TargetText>self-reference</TargetText>
+	<Comment>com.fmi.externaldatasource.self-reference</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.A72664F13DDFEACC5F6AAC99DE88BC03</StringID>
+	<SourceText>__FMAddonTemplate_Metadata</SourceText>
+	<TargetText>__FMAddonTemplate_Metadata</TargetText>
+	<Comment>com.fmi.tableoccurrence.__FMAddonTemplate_Metadata</Comment>
 </DynamicTemplateString>

@@ -25,7 +25,7 @@ Mizu is made for FileMaker 19 or higher. It probably works in FileMaker 18 but y
 
 For FileMaker 19+ users, you can double click on the file. FileMaker will install the add-on and a new custom theme, Mizu by Proof+Geist will appear in your themes menu.
 
-Mizu is released as an add-on component.
+Mizu is released as an add-on component with a companion helper file.
 
 Download the latest release here, https://github.com/proofgeist/mizu/releases
 

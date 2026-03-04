@@ -1,0 +1,11 @@
+﻿{
+	"Title": "shadcn by Proof+Geist",
+	"Description": "Adds the shadcn theme to your file",
+	"Category": "Themes",
+	"Features": [],
+	"Optimized": [
+		"Desktop",
+		"Tablet",
+		"Mobile"
+	]
+}

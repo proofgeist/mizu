@@ -1,0 +1,98 @@
+﻿
+<DynamicTemplateString>
+	<StringID>com.fmi.basedirectory.CB285A0FD66A28850057FEB1F4A82D17</StringID>
+	<SourceText>Mizu/</SourceText>
+	<TargetText>Mizu/</TargetText>
+	<Comment>com.fmi.basedirectory.Mizu/</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.A72664F13DDFEACC5F6AAC99DE88BC03</StringID>
+	<SourceText>__FMAddonTemplate_Metadata</SourceText>
+	<TargetText>__FMAddonTemplate_Metadata</TargetText>
+	<Comment>com.fmi.basetable.__FMAddonTemplate_Metadata</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::1A6F6D8A5D201F2A21420B43C5345AE0</StringID>
+	<SourceText>__FMAddonTemplate_Version</SourceText>
+	<TargetText>__FMAddonTemplate_Version</TargetText>
+	<Comment>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_Version</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::3DF4202D460A0197901676D33510E2A9</StringID>
+	<SourceText>__FMAddonTemplate_GUID</SourceText>
+	<TargetText>__FMAddonTemplate_GUID</TargetText>
+	<Comment>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_GUID</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::4C401D80F095E4875C589E7F30613788</StringID>
+	<SourceText>__FMAddonTemplate_PreviewImage</SourceText>
+	<TargetText>__FMAddonTemplate_PreviewImage</TargetText>
+	<Comment>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_PreviewImage</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::58C8AA9702E724A8E8528A4EFD8E39BC</StringID>
+	<SourceText>__FMAddonTemplate_Icon</SourceText>
+	<TargetText>__FMAddonTemplate_Icon</TargetText>
+	<Comment>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_Icon</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::5A65B734A19B7A9D40A8E233BCECC32B</StringID>
+	<SourceText>__FMAddonTemplate_Desc</SourceText>
+	<TargetText>__FMAddonTemplate_Desc</TargetText>
+	<Comment>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_Desc</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::9C2DB678CD3FAB550FD3E0896225AC19</StringID>
+	<SourceText>__FMAddonTemplate_Clients</SourceText>
+	<TargetText>__FMAddonTemplate_Clients</TargetText>
+	<Comment>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_Clients</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::B0F082A2B4B8CD0DD4CC13D936B12D82</StringID>
+	<SourceText>__FMAddonTemplate_Attribution</SourceText>
+	<TargetText>__FMAddonTemplate_Attribution</TargetText>
+	<Comment>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_Attribution</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::BF67E2BFE93D889A4BB3ACAEF0833675</StringID>
+	<SourceText>__FMAddonTemplate_URL</SourceText>
+	<TargetText>__FMAddonTemplate_URL</TargetText>
+	<Comment>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_URL</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::C3705CECC929CE96E6BCD1628F27214E</StringID>
+	<SourceText>__FMAddonTemplate_Title</SourceText>
+	<TargetText>__FMAddonTemplate_Title</TargetText>
+	<Comment>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_Title</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.__FMAddonTemplate_Metadata::DFF29DF31A6BCD82433020A5B2096A06</StringID>
+	<SourceText>__FMAddonTemplate_Category</SourceText>
+	<TargetText>__FMAddonTemplate_Category</TargetText>
+	<Comment>com.fmi.basetable.field.__FMAddonTemplate_Metadata::__FMAddonTemplate_Category</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E06123D571693687770B1259FAD99B28</StringID>
+	<SourceText>Proof Add-on Module</SourceText>
+	<TargetText>Proof Add-on Module</TargetText>
+	<Comment>com.fmi.calculation.text.Proof Add-on Module</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.A72664F13DDFEACC5F6AAC99DE88BC03</StringID>
+	<SourceText>__FMAddonTemplate_Metadata</SourceText>
+	<TargetText>__FMAddonTemplate_Metadata</TargetText>
+	<Comment>com.fmi.tableoccurrence.__FMAddonTemplate_Metadata</Comment>
+</DynamicTemplateString>

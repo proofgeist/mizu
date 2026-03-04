@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Phase 2: Element-specific refinements for Mizu shadcn theme.
+Phase 2: Element-specific refinements for shadcn theme.
 
 Applies targeted CSS rule modifications that can't be done with global
 find-and-replace (semantically different elements need different treatment).
@@ -10,7 +10,7 @@ import re
 import sys
 
 
-TEMPLATE_PATH = "proof_mizu_shadcn_theme/template.xml"
+TEMPLATE_PATH = "proof_shadcn_theme/template.xml"
 
 
 def read_template(path):

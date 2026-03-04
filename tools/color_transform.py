@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Color transformation script for Mizu shadcn theme.
+Color transformation script for shadcn theme.
 
 Reads a FileMaker template.xml (UTF-16 LE with BOM), applies ordered
 find-and-replace on rgba color values within the CSS CDATA block,
@@ -14,7 +14,7 @@ import re
 import sys
 from collections import OrderedDict
 
-TEMPLATE_PATH = "proof_mizu_shadcn_theme/template.xml"
+TEMPLATE_PATH = "proof_shadcn_theme/template.xml"
 
 # ─── shadcn target palette (FileMaker rgba format) ───────────────────
 # background:          rgba(100%,100%,100%,1)          — page/card backgrounds

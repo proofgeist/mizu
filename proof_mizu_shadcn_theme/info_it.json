@@ -1,0 +1,11 @@
+﻿{
+	"Title": "Mizu shadcn by Proof+Geist",
+	"Description": "Adds the Mizu shadcn theme to your file",
+	"Category": "Themes",
+	"Features": [],
+	"Optimized": [
+		"Desktop",
+		"Tablet",
+		"Mobile"
+	]
+}
